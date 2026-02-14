@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingServiceCodeChallenge", "BankingServiceCodeChallenge\BankingServiceCodeChallenge.csproj", "{F7001ED3-3C17-47A6-964F-8FA050BB137B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingServiceCodeChallengeTests", "BankingServiceCodeChallengeTests\BankingServiceCodeChallengeTests.csproj", "{42725E4B-E606-4949-9666-68B6D3CAB4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7001ED3-3C17-47A6-964F-8FA050BB137B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7001ED3-3C17-47A6-964F-8FA050BB137B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7001ED3-3C17-47A6-964F-8FA050BB137B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7001ED3-3C17-47A6-964F-8FA050BB137B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42725E4B-E606-4949-9666-68B6D3CAB4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42725E4B-E606-4949-9666-68B6D3CAB4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42725E4B-E606-4949-9666-68B6D3CAB4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42725E4B-E606-4949-9666-68B6D3CAB4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
