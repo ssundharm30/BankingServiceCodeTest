@@ -51,8 +51,9 @@ The project follows a layered domain model architecture:
 
 ## How to run
 1. Navigate to the root directory of the project
-2. Run the command "dotnet build" to build the project
-3. Run the command "dotnet run" to run the banking service and view the output
+2. The Data folder contains the Balances and Transactions CSV files. Please follow the same naming convention as the existing names in the folder.
+3. Run the command "dotnet build" to build the project
+4. Run the command "dotnet run" to run the banking service and view the output
 
    Sample output:
 
